@@ -1,0 +1,13 @@
+{
+  "name": "generalized-rps",
+  "version": "1.0.0",
+  "description": "Generalized Rock-Paper-Scissors game implemented in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cli-table3": "^0.6.1"
+  }
+}
+
